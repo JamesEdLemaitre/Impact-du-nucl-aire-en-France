@@ -29,6 +29,18 @@ Le nucléaire fournit **63 % à 77 %** de l'électricité selon l'année, pour u
 
 À production égale, remplacer le nucléaire (6 g/kWh) par du solaire (55 g/kWh) ajouterait **14 à 20 MtCO₂e par an**. Ce scénario est volontairement simple : il ne tient compte ni de l'intermittence ni du stockage.
 
+### 4. Énergie totale, nucléaire et émissions : l'évolution année par année
+![Énergie annuelle, nucléaire et émissions](figures/Energie_nucleaire_emissions.png)
+
+Ce graphique met côte à côte la production totale (TWh), la production nucléaire (TWh) et les émissions de CO₂e du mix (MtCO₂e). La production totale reste stable, autour de **500 à 550 TWh par an**, sauf en 2022 (environ 443 TWh). Les émissions chutent de **35,7 MtCO₂e en 2012 à 13,6 MtCO₂e en 2025**.
+
+Le lien avec le nucléaire est visible lors des creux de production :
+- **2017** : le nucléaire baisse à environ 379 TWh et les émissions montent à 33,1 MtCO₂e, car le gaz et le charbon compensent.
+- **2022** : le nucléaire atteint son point bas, environ 279 TWh (crise de la corrosion sous contrainte et maintenances). Les émissions remontent à 26,1 MtCO₂e malgré une production totale plus faible.
+- **2023 à 2025** : le nucléaire se redresse (environ 320, 361 puis 373 TWh) et les émissions s'effondrent jusqu'à 13,6 MtCO₂e.
+
+Le nucléaire n'est pas le seul facteur. En 2012-2013, sa production est élevée (environ 404 TWh), mais les émissions sont les plus fortes de la période à cause du charbon. La baisse de 2014 s'explique par un recul du charbon, et la tendance après 2018 par la montée des renouvelables. En conclusion, **quand le nucléaire baisse, les émissions augmentent** parce que les énergies fossiles prennent le relais, mais d'autres filières jouent aussi.
+
 ## 🧪 Méthode
 
 1. Données éCO2mix consolidées (RTE), 2012–2025. L'année 2026 est exclue car incomplète.
