@@ -15,17 +15,17 @@ Sous-questions :
 ## 📊 Résultats
 
 ### 1. Émissions de CO₂e du mix par filière
-![Émissions par filière](figures/co2_par_filiere.jpg)
+![Émissions par filière](figures/co2_par_filiere.png)
 
 Les émissions du mix passent de **35,7 MtCO₂e en 2012 à 13,6 MtCO₂e en 2025**. Le gaz et le charbon dominent chaque année. En 2017, ils représentent environ 9 % de la production mais **81 %** des émissions (gaz 49,9 %, charbon 31,1 %).
 
 ### 2. Part du nucléaire : production vs émissions
-![Nucléaire : production vs émissions](figures/nucleaire_production_vs_co2.jpg)
+![Nucléaire : production vs émissions](figures/nucleaire_production_vs_co2.png)
 
 Le nucléaire fournit **63 % à 77 %** de l'électricité selon l'année, pour une part d'émissions bien plus faible (environ 6 % à 16 %). Cette part augmente sur la période parce que les émissions des autres filières baissent, pas parce que celles du nucléaire augmentent.
 
 ### 3. Émissions supplémentaires si le nucléaire était remplacé
-![Émissions évitées](figures/emissions_evitees.jpg)
+![Émissions évitées](figures/emissions_evitees.png)
 
 À production égale, remplacer le nucléaire (6 g/kWh) par du solaire (55 g/kWh) ajouterait **14 à 20 MtCO₂e par an**. Ce scénario est volontairement simple : il ne tient compte ni de l'intermittence ni du stockage.
 
