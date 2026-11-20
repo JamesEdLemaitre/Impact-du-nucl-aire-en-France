@@ -63,6 +63,8 @@ Facteurs ACV utilisés (g CO₂e/kWh) : fioul 730, charbon 1058, gaz 418, nuclé
 - L'ACV du nucléaire varie de 4 à 6 g/kWh selon les sources. On retient 6.
 - Le scénario de remplacement est théorique.
 - Les aspects hors carbone (déchets, coût, sûreté, ressources) ne sont pas traités.
+- Seul l'indicateur « changement climatique » de l'ACV est utilisé (g CO₂e/kWh). Les autres indicateurs d'impact (radiations ionisantes, épuisement des ressources, acidification, eutrophisation) ne sont pas analysés.
+- Le coût, la sûreté et le débat sur la gestion des déchets à long terme ne sont pas traités.
 
 ## 🏁 Conclusion
 
