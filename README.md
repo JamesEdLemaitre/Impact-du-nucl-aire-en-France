@@ -30,7 +30,7 @@ Le nucléaire fournit **63 % à 77 %** de l'électricité selon l'année, pour u
 À production égale, remplacer le nucléaire (6 g/kWh) par du solaire (55 g/kWh) ajouterait **14 à 20 MtCO₂e par an**. Ce scénario est volontairement simple : il ne tient compte ni de l'intermittence ni du stockage.
 
 ### 4. Énergie totale, nucléaire et émissions : l'évolution année par année
-![Énergie annuelle, nucléaire et émissions](figures/Energie_nucleaire_emissions.png)
+![Énergie annuelle, nucléaire et émissions](figures/Énergie_nucléaire_émissions.png)
 
 Ce graphique met côte à côte la production totale (TWh), la production nucléaire (TWh) et les émissions de CO₂e du mix (MtCO₂e). La production totale reste stable, autour de **500 à 550 TWh par an**, sauf en 2022 (environ 443 TWh). Les émissions chutent de **35,7 MtCO₂e en 2012 à 13,6 MtCO₂e en 2025**.
 
