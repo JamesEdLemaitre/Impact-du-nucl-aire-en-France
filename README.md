@@ -17,7 +17,12 @@ Sous-questions :
 ### 1. Émissions de CO₂e du mix par filière
 ![Émissions par filière](figures/co2_par_filiere.png)
 
-Les émissions du mix passent de **35,7 MtCO₂e en 2012 à 13,6 MtCO₂e en 2025**. Le gaz et le charbon dominent chaque année. En 2017, ils représentent environ 9 % de la production mais **81 %** des émissions (gaz 49,9 %, charbon 31,1 %).
+Les émissions du mix passent de **35,7 MtCO₂e en 2012 à 13,6 MtCO₂e en 2025**.
+
+Le gaz et le charbon dominent les émissions chaque année. En 2017, ils représentent environ 9 % de la production mais **81 %** des émissions (gaz 49,9 %, charbon 31,1 %). Le nucléaire, lui, représente 71,9 % de la production pour seulement **6,9 %** des émissions.
+
+Le nucléaire a donc produit **7,7 fois plus d'énergie** que le gaz et le charbon réunis, tout en émettant **environ 91 fois moins de CO₂e pour chaque unité d'énergie produite**.
+
 
 ### 2. Part du nucléaire : production vs émissions
 ![Nucléaire : production vs émissions](figures/nucleaire_production_vs_co2.png)
